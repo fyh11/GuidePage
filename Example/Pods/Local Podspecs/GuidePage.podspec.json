@@ -1,0 +1,22 @@
+{
+  "name": "GuidePage",
+  "version": "0.1.0",
+  "summary": "A short description of GuidePage.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fyh11/GuidePage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fyh11": "fyh_4576@126.com"
+  },
+  "source": {
+    "git": "https://github.com/fyh11/GuidePage.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GuidePage/Classes/**/*"
+}

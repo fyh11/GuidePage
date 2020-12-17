@@ -1,0 +1,16 @@
+PODS:
+  - GuidePage (0.1.0)
+
+DEPENDENCIES:
+  - GuidePage (from `../`)
+
+EXTERNAL SOURCES:
+  GuidePage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GuidePage: de293272b64facabb25c85b2bdc54e6702f8b09a
+
+PODFILE CHECKSUM: 1723678e287c2f1016d390f2c1a3ed4abb2fc0bd
+
+COCOAPODS: 1.9.3

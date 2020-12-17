@@ -1,0 +1,6 @@
+framework module Pods_GuidePage_Tests {
+  umbrella header "Pods-GuidePage_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

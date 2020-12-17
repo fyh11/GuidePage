@@ -1,0 +1,6 @@
+framework module GuidePage {
+  umbrella header "GuidePage-umbrella.h"
+
+  export *
+  module * { export * }
+}
